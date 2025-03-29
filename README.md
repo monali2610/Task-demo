@@ -1,6 +1,6 @@
 # Task-demo
 
-TaskDemoServer
+# TaskDemoServer
 Backend (Node.js + Express + MongoDB)
 
 1. Rename .env.exmaple to .env
@@ -25,7 +25,7 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 
-Task-demo-client
+# Task-demo-client
 
 Frontend (React.js + Redux or Context API)
 
